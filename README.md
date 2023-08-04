@@ -1,19 +1,14 @@
-<a href="https://jeongahn.notion.site/Stability-d489428152cc42609e59165b9b004be9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/stability-000000?style=social&logo=#000000&logoColor=FFFFFF"/></a>
-
-![ahnjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnjj&show_icons=true&theme=radical)
+<h1 align = center> Ahnjj.Dev</h1>
 
 
-<!--
-**ahnjj/ahnjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align = center> 🛠️ Work Tool </h3>
+<h2 align = center>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
+</h2>
+<h3></h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3  align = center> 👩🏻‍💻 Interest / Studying</h3>
+<h4 align = center>
+  Python Backend / AI Especially for Language Learning, Language Processing </h4>

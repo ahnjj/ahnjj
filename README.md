@@ -11,4 +11,5 @@
 
 <h3  align = center> 👩🏻‍💻 Interest / Studying</h3>
 <h4 align = center>
-  Python Backend / AI Especially for Language Learning, Language Processing </h4>
+  Python Backend
+  AI </h4>

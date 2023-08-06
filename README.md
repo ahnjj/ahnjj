@@ -1,4 +1,4 @@
-<h1 align = center> Ahnjj.Dev</h1>
+<h1 align = center> Ahnjj </h1>
 
 
 <h3 align = center> 🛠️ Work Tool </h3>
@@ -11,5 +11,5 @@
 
 <h3  align = center> 👩🏻‍💻 Interest / Studying</h3>
 <h4 align = center>
-  Python Backend
-  AI </h4>
+  Python Backend </h4>
+ <h4 align = center> AI(ML/NLP) </h4>

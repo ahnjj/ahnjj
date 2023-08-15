@@ -12,4 +12,3 @@
 <h3  align = center> 👩🏻‍💻 Interest / Studying</h3>
 <h4 align = center>
   Python Backend </h4>
- <h4 align = center> AI(ML/NLP) </h4>

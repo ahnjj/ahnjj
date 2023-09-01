@@ -20,7 +20,6 @@
 <h3></h3>
 
 <h3  align = center> 👩🏻‍💻 Interest / Studying</h3>
-<br>
 <h4 align = center>
   Math <br>
   Machine Learning<br>

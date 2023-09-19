@@ -20,10 +20,10 @@ Backend Engineer.
 </h2>
 
 
-👩🏻‍💻 Interest / Studying
+<h1>👩🏻‍💻 Interest / Studying</h1>
   Machine Learning<br>
   Python Backend
 
-💻 ...
+<h1>💻 ...</h1>
 <a href = "https://github.com/ahnjj"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://www.notion.so/jeongahn/Ahnjj_Dev-506d51b69617406583f7c0d8f2940f4d"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> 

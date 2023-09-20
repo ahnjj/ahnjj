@@ -1,4 +1,4 @@
-<h2 align = center> Ahnjj 
+<h2 align = center> 
 Hi, I am jeong.
 Backend Engineer.
 </h2>

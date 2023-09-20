@@ -1,19 +1,31 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Love%20To%20Dig%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There!&fontAlign=40&fontAlignY=40&color=gradient)
 
-<h3> 
-Hi👋🏻 I am jeong.<br>
-Backend Engineer.
-</h3>
+---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnjj&count_bg=%23FFA2D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Jeong Ahn"
+        self.role = "Backend Engineer"
+        self.language_spoken = ["ko_kr", "en_US", "ja_JP","fr_FR","zh_CN"]
+        self.interest = ["machine learning", "math", "algorithm"]
+
+    def welcome(self):
+        print("Welcome!")
 
 
-### 🛠️ Skills 
+me = SoftwareEngineer()
+me.welcome()
+```
+
+####  🛠️ Technology & Tools
 ---
-##### 👩🏻‍💻Language & Frameworks
-
-
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,7 +38,6 @@ Backend Engineer.
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 
-####  🛠️ infra & Tools
 ---
 
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)

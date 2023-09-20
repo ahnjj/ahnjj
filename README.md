@@ -1,6 +1,7 @@
-<h1 align = center> Ahnjj </h1>
+<h2 align = center> Ahnjj 
 Hi, I am jeong.
 Backend Engineer.
+</h2>
 
 <h3 align = center> 🛠️ Work Tool </h3>
 <h2 align = center>

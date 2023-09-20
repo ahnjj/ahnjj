@@ -1,9 +1,14 @@
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Love%20To%20Dig%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+
 <h3> 
 Hi👋🏻 I am jeong.<br>
 Backend Engineer.
 </h3>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnjj&count_bg=%23FFA2D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+
+---
 <h3> 🛠️ Work Tool </h3>
 <h3 align = left>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -20,12 +25,16 @@ Backend Engineer.
 
 </h3>
 
+---
 
-<h3>👩🏻‍💻 Interest / Studying</h3>
+
+<h3>👩🏻‍💻🖤 </h3>
   Machine Learning<br>
-  Python Backend
+  Algorithm
 
 <br>
+
+---
 
 
 <h3>💻 ...</h3>
@@ -34,5 +43,3 @@ Backend Engineer.
 
 
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnjj&count_bg=%23FFA2D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)

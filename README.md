@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There!&fontAlign=40&fontAlignY=40&color=gradient)
+# ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20There!&fontAlign=40&fontAlignY=40&color=gradient)
 
 ```python
 #!/usr/bin/python
@@ -8,7 +8,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Jeong Ahn"
-        self.role = "Backend Engineer"
+        self.role = "Engineer"
         self.language_spoken = ["ko_kr", "en_US", "ja_JP","fr_FR","zh_CN"]
         self.interest = ["django", "data", "machine learning"]
 

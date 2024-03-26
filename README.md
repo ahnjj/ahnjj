@@ -11,6 +11,7 @@ class SoftwareEngineer:
         self.role = "Solution Engineer"
         self.workplace = "GSITM"
         self.team = "Cloud Solution"
+        self.major = "Computer Science"
         self.language_spoken = ["ko_kr", "en_US", "ja_JP","fr_FR","zh_CN"]
         self.interest = ["Cloud Computing", "Machine Learning"]
 

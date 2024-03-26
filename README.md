@@ -10,7 +10,7 @@ class SoftwareEngineer:
         self.name = "Jeong Ahn"
         self.role = "Solution Engineer"
         self.language_spoken = ["ko_kr", "en_US", "ja_JP","fr_FR","zh_CN"]
-        self.interest = ["Cloud Computing", "machine learning"]
+        self.interest = ["Cloud Computing", "Machine Learning"]
 
     def welcome(self):
         print("Welcome!")

@@ -54,5 +54,3 @@ me.welcome()
 
 
 <a href = "https://www.notion.so/jeongahn/Ahnjj_Dev-506d51b69617406583f7c0d8f2940f4d"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnjj&count_bg=%23FFA2D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-

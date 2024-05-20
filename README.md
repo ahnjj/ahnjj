@@ -11,7 +11,7 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.major = "Computer Science"
         self.language_spoken = ["ko_kr", "en_US", "ja_JP","fr_FR","zh_CN"]
-        self.interest = ["Data Science", "Cloud"]
+        self.interest = ["Data Science"]
 
     def welcome(self):
         print("Welcome!!")

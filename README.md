@@ -11,11 +11,10 @@ class SoftwareEngineer:
         self.role = "VDI Engineer"
         self.major = "Computer Science"
         self.language_spoken = ["ko_kr", "en_US", "ja_JP"]
-        self.interest = ["AI, Data Science"]
+        self.interest = ["AI"]
 
     def welcome(self):
         print("Welcome!!")
-
 
 me = SoftwareEngineer()
 me.welcome()

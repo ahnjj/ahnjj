@@ -8,10 +8,10 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Jeong Ahn"
-        self.role = "VDI Engineer"
+        self.role = "Search Engine Engineer"
         self.major = "Computer Science"
         self.language_spoken = ["ko_kr", "en_US", "ja_JP"]
-        self.interest = ["AI"]
+        self.interest = ["AI","Data Science"]
 
     def welcome(self):
         print("Welcome!!")

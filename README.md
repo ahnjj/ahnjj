@@ -10,8 +10,11 @@ class SoftwareEngineer:
         self.name = "Jade (Jung) Ahn"
         self.major = "Data Science"
         self.current_status = "Master"
+        self.interest = [ "Open Source Contribution",
+                            "AI Safety","Agent Safety",
+                            "AI Social Intelligence",
+                            "AI Society Safety"]
         self.language_spoken = ["en_US", "ko_kr", "ja_JP"]
-        self.interest = ["AI Safety","Agent Safety","AI Social Intelligence", "AI Society Safety", "Open Source"]
 
     def welcome(self):
         print("Welcome!!")

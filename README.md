@@ -7,7 +7,7 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Jeong Ahn"
+        self.name = "Jade (Jung) Ahn"
         self.major = "Data Science"
         self.current_status = "Master"
         self.language_spoken = ["en_US", "ko_kr", "ja_JP"]
